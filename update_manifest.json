@@ -1,16 +1,24 @@
-﻿{
-  "version": "7.0.0",
+{
+  "version": "14.0.0",
   "channel": "stable",
-  "release_date": "2026-08-24",
+  "release_date": "2026-08-25",
   "mandatory": false,
-  "download_url": "https://t.me/Muntivpn",
+  "download_url": "https://github.com/mahdi78013/InternetAzad365/releases/download/v14.0.0/Setup_InternetAzad365.exe",
   "sha256": "",
   "telegram_url": "https://t.me/Muntivpn",
   "changelog": [
-    "معماری جدید Wintun Layer-3 VPN",
-    "تزریق خودکار گواهینامه برای هوش مصنوعی (Antigravity و Gemini)",
-    "سیستم بازگردانی کامل وضعیت شبکه (Network State Rollback)",
-    "پشتیبانی از WinHTTP و سرور PAC داخلی",
-    "سیستم بررسی خودکار آپدیت با اعتبارسنجی رمزنگاری SHA256"
-  ]
+    "طراحی فوق‌العاده مدرن و کامپکت ۳۶۰×۵۸۰",
+    "دکمه پاور نئونی و درخشان",
+    "لوگوی رسمی اختصاصی اینترنت آزاد³⁶⁵",
+    "سیستم حمایت مالی و دونیت تتر و تون‌کوین",
+    "سیستم همگام‌سازی و آپدیت خودکار ۳ لایه ضد فیلتر"
+  ],
+  "server_config": {
+    "script_ids": [
+      "AKfycbwUuXg9g5K0m_pX0kXW7X1Y_Z",
+      "AKfycbz1m8J2K3L4M5N6P7Q8R9S0T1",
+      "AKfycbxAbCdEfGhIjKlMnOpQrStUvW"
+    ],
+    "google_ip": "216.239.38.120"
+  }
 }
