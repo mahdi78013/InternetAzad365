@@ -1,0 +1,16 @@
+﻿{
+  "version": "7.0.0",
+  "channel": "stable",
+  "release_date": "2026-08-24",
+  "mandatory": false,
+  "download_url": "https://t.me/Muntivpn",
+  "sha256": "",
+  "telegram_url": "https://t.me/Muntivpn",
+  "changelog": [
+    "معماری جدید Wintun Layer-3 VPN",
+    "تزریق خودکار گواهینامه برای هوش مصنوعی (Antigravity و Gemini)",
+    "سیستم بازگردانی کامل وضعیت شبکه (Network State Rollback)",
+    "پشتیبانی از WinHTTP و سرور PAC داخلی",
+    "سیستم بررسی خودکار آپدیت با اعتبارسنجی رمزنگاری SHA256"
+  ]
+}
