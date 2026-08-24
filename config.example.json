@@ -1,0 +1,57 @@
+{
+	"google_ip": "216.239.38.120",
+	"front_domain": "www.google.com",
+	"front_domains": [
+		"www.google.com",
+		"mail.google.com",
+		"accounts.google.com"
+	],
+	"script_ids": [
+		"AKfycbw4G97rNcvRE8H_1LCYuSl0IZ26iaahef_E68LkPUmu9jSLVfGLOYcL-_-rZoXStMxubQ",
+		"AKfycbw59vhIlX1oLlGoym2fbf8nFz6H4ZryiTxm6s2lvvM2CJGIeaDnUvu5y-AA63cB8bEITw",
+		"AKfycbwVWYLf3TJSbmJVNkJ1qlVt6HauEORZ4TjIs8x7LjQA2Afte1YPrZX_3tAFk509RZ8h9w",
+		"AKfycbwOJHQswXVmoPrZHzecXLVcRuBtgjX-sA7-x1uXyDww-uaRDh_hg2SazqRzhIM2CB6k",
+		"AKfycbxWbOUXpqFtgnLMxdK4x-rS5CjctxH2QkXU8CIwUuo2qDcUZOa95LPgabtwY6YZUyWi3w"
+	],
+	"auth_key": "MySecretGlobalKey2026_xYz369",
+	"listen_host": "127.0.0.1",
+	"http_port": 8085,
+	"socks5_port": 1080,
+	"verify_ssl": true,
+	"lan_sharing": false,
+	"relay_ip_literals": true,
+	"relay_timeout": 35,
+	"tls_connect_timeout": 15,
+	"tcp_connect_timeout": 10,
+	"parallel_relay": 1,
+	"h2_connections": 2,
+	"ping_interval": 0.1,
+	"enable_batch": true,
+	"batch_window_micro": 0.015,
+	"batch_window_macro": 0.080,
+	"enable_sub_batch": false,
+	"block_hosts": [
+		"ads.example.com",
+		".doubleclick.net"
+	],
+	"direct_hosts": [
+		"rubika.ir",
+		"soft98.ir",
+		"varzesh3.com",
+		"divar.ir",
+		"snapp.ir",
+		"digikala.com",
+		".ir"
+	],
+	"youtube_via_relay": false,
+	"hosts": {
+		"example.org": "93.184.216.34"
+	},
+	"log_level": "INFO",
+	"adblock_lists": [
+		"https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAds-Hosts.txt",
+		"https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerTrackers-Hosts.txt",
+		"https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerAnnoyances-Domains.txt",
+		"https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt"
+	]
+}
