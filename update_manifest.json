@@ -4,7 +4,7 @@
   "release_date": "2026-08-25",
   "mandatory": false,
   "download_url": "https://github.com/mahdi78013/InternetAzad365/releases/download/v15.0.0/InternetAzad369_v15_Setup.exe",
-  "sha256": "35fe225659b927273088263a5364b0bb07bd0c75d3596138b881acd23c6f37a8",
+  "sha256": "9e7215d4d645b462b426d8456cb5786aca9af13fae6bf30c8f5b7fbe54eadd5c",
   "telegram_url": "https://t.me/Muntivpn",
   "changelog": [
     "تغییر رسمی نام برند به اینترنت آزاد³⁶⁹",
@@ -22,5 +22,5 @@
     ],
     "google_ip": "216.239.38.120"
   },
-  "signature": "FK5aWTFI2vru0mQm48vwMYeTyI+qaiVqiN2QM0IyPjGLOUavZq8l2Prg4/bDA6v8HBYD5P5pvpeQoMKzLSGPBg=="
+  "signature": "3FPSWJXj4iBtd65KNhpJCCAj4agcc0vipBNpYFhg9QkU47vhBapcYtDQAnFYUTJgW/Mbd428s0otKweb98SfDA=="
 }
