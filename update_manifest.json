@@ -1,17 +1,18 @@
 {
-  "version": "14.0.0",
+  "version": "15.0.0",
   "channel": "stable",
   "release_date": "2026-08-25",
   "mandatory": false,
-  "download_url": "https://github.com/mahdi78013/InternetAzad365/releases/download/v14.0.0/Setup_InternetAzad365.exe",
+  "download_url": "https://github.com/mahdi78013/InternetAzad365/releases/download/v15.0.0/InternetAzad369_v15_Setup.exe",
   "sha256": "",
   "telegram_url": "https://t.me/Muntivpn",
   "changelog": [
-    "طراحی فوق‌العاده مدرن و کامپکت ۳۶۰×۵۸۰",
-    "دکمه پاور نئونی و درخشان",
-    "لوگوی رسمی اختصاصی اینترنت آزاد³⁶⁵",
-    "سیستم حمایت مالی و دونیت تتر و تون‌کوین",
-    "سیستم همگام‌سازی و آپدیت خودکار ۳ لایه ضد فیلتر"
+    "تغییر رسمی نام برند به اینترنت آزاد³⁶⁹",
+    "دشبورد زنده مانیتورینگ ترافیک (دانلود/آپلود زنده و حجم کل جلسه)",
+    "دکمه پاور بازطراحی‌شده با عمق واقعی و سایه‌های لایه‌ای",
+    "تب اختصاصی تست سرعت و امتیاز سلامت شبکه (Health Score)",
+    "تب راهنما و حل مشکلات رایج (FAQ & Troubleshooting)",
+    "دکمه عریض اتصال موبایل و دونیت مستقیم به سازنده"
   ],
   "server_config": {
     "script_ids": [
